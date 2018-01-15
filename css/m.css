@@ -1,0 +1,190 @@
+body,html{
+	background:url("../img/backgroundmob.jpg") no-repeat center center fixed;
+	background-size: cover;
+	height:100%;
+	padding:0px;
+	margin:0px;
+}
+#nave{
+	text-align:center;
+	position:fixed;
+	top:10%;
+	width:100%;
+	height:20%
+}
+#nave img{
+	height:65%;
+}
+#cpanel{}
+#hidem,#showm,{float:right}
+/*.mobilepanel {
+	background-color:green;
+	position:absolute;
+	height:15.5%;
+	width: 73%;
+	top:1.5%;
+	left:1.5%;
+	border: 3px solid black;
+}
+.mobilefuel {
+	background-color:yellow;
+	position:absolute;
+	height:73%;
+	width:25%;
+	top:9%;
+	left:3%;
+	border: 3px solid black;
+}
+.mobilealtitud {
+	background-color:yellow;
+	position:absolute;
+	height:73%;
+	width:25%;
+	top:9%;
+	left:37%;
+	border: 3px solid black;
+}
+.mobilevelocidad {
+	background-color:yellow;
+	position:absolute;
+	height:73%;
+	width:25%;
+	top:9%;
+	right:3%;
+	border: 3px solid black;
+}*/
+.mobileboton3 {
+	background:url("../img/settingsmobile.png") no-repeat;
+	background-size:100% 100%;
+	position:absolute;
+	height:15.5%;
+	width:21%;
+	bottom: 1.5%;
+	left:1.5%;
+}
+.mobileboton3:hover {
+	background:url("../img/settingsmobilehover.png") no-repeat;
+	background-size:100% 100%;
+	position:absolute;
+	height:15.5%;
+	width:21%;
+	bottom: 1.5%;
+	left:1.5%;
+}
+.mobileboton2 {
+	background:url("../img/retrymobile.png") no-repeat;
+	background-size:100% 100%;
+	position:absolute;
+	height:15.5%;
+	width:21%;
+	top: 1.5%;
+	right:1.5%;
+}
+.mobileboton2:hover {
+	background:url("../img/retrymobilehover.png") no-repeat;
+	background-size:100% 100%;
+	position:absolute;
+	height:15.5%;
+	width:21%;
+	top: 1.5%;
+	right:1.5%;
+}
+#bottomplay {
+	background:url("../img/pause.png") no-repeat;
+	background-size:100% 100%;
+	position:absolute;
+	height:15.5%;
+	width:21%;
+	bottom: 1.5%;
+	right:1.5%;
+}
+#bottomplay:hover {
+	background:url("../img/pausehover.png") no-repeat;
+	background-size:100% 100%;
+	position:absolute;
+	height:15.5%;
+	width:21%;
+	bottom: 1.5%;
+	right:1.5%;
+}
+#bottomplay2 {
+	background:url("../img/pause.png") no-repeat;
+	background-size:100% 100%;
+	position:absolute;
+	height:15.5%;
+	width:21%;
+	bottom: 1.5%;
+	right:1.5%;
+	display:none;
+}
+#bottomplay2:hover {
+	background:url("../img/pausehover.png") no-repeat;
+	background-size:100% 100%;
+	position:absolute;
+	height:15.5%;
+	width:21%;
+	bottom: 1.5%;
+	right:1.5%;
+	display:none;
+}
+.instrucciones {
+	background:url("../img/instruccionesmobile.png") no-repeat;
+	background-size:100%;
+	position:absolute;
+	bottom:5%;
+	right:5%;
+	height:56%;
+	width:57%;
+}
+#fuel1 {
+	background-color:yellow;
+	background-size:100%;
+	position: absolute;
+	top:0%;
+	left:0%;
+	height:13%;
+	width:20%;
+	border: solid 3px black;
+}
+#altitud1 {
+	background-color:yellow;
+	background-size:100%;
+	position: absolute;
+	top:18%;
+	left:0%;
+	height:13%;
+	width:20%;
+	border: solid 3px black;
+}
+#velocidad1 {
+	background-color:yellow;
+	background-size:100%;
+	position: absolute;
+	top:36%;
+	left:0%;
+	height:13%;
+	width:20%;
+	border: solid 3px black;
+}
+#actmotor {
+	background:url("../img/actmotor.png") no-repeat;
+	background-size:100% 100%;
+	position:absolute;
+	height:15.5%;
+	width:21%;
+	bottom: 20%;
+	right:1.5%;
+	border: solid 4px black;
+}
+#actmotor2 {
+	background:url("../img/actmotortrue.png") no-repeat;
+	background-size:100% 100%;
+	position:absolute;
+	height:15.5%;
+	width:21%;
+	bottom: 20%;
+	right:1.5%;
+	display:none;
+	border: solid 4px black;
+}
+	
