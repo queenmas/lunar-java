@@ -16,43 +16,8 @@ body,html{
 	height:65%;
 }
 #cpanel{}
-#hidem,#showm,{float:right}
-/*.mobilepanel {
-	background-color:green;
-	position:absolute;
-	height:15.5%;
-	width: 73%;
-	top:1.5%;
-	left:1.5%;
-	border: 3px solid black;
-}
-.mobilefuel {
-	background-color:yellow;
-	position:absolute;
-	height:73%;
-	width:25%;
-	top:9%;
-	left:3%;
-	border: 3px solid black;
-}
-.mobilealtitud {
-	background-color:yellow;
-	position:absolute;
-	height:73%;
-	width:25%;
-	top:9%;
-	left:37%;
-	border: 3px solid black;
-}
-.mobilevelocidad {
-	background-color:yellow;
-	position:absolute;
-	height:73%;
-	width:25%;
-	top:9%;
-	right:3%;
-	border: 3px solid black;
-}*/
+#hidem{float:right}
+#showm{float:right}
 .mobileboton3 {
 	background:url("../img/settingsmobile.png") no-repeat;
 	background-size:100% 100%;
